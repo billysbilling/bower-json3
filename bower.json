@@ -1,0 +1,13 @@
+{
+  "name": "json3",
+  "version": "3.2.5",
+  "homepage": "",
+  "main": "json3.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
